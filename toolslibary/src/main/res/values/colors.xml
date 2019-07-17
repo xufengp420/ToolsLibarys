@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="statusbar_bg">#2CC786</color>
+    <color name="actionbar_bg">#2CC786</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3496EE</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!--用在重要文字 标题 或背景色-->
+    <color name="impotColor">#262626</color>
+    <!--用在图标下的问题颜色-->
+    <color name="picColor">#3a3a3a</color>
+    <!--用在次重要的文字标题 如商品段落标题-->
+    <color name="spColor">#7c7c7c</color>
+    <!--广泛用再大篇幅文字内容上 如商品说明  评论-->
+    <color name="contentColor">#A5A5A5</color>
+    <!--用在收藏商品或消息提醒-->
+    <color name="warnRed">#C30000</color>
+    <!--适用分割线-->
+    <color name="lineColor">#D3D3D3</color>
+    <!--app大背景底色-->
+    <color name="bgColor">#E5E5E5</color>
+
+
+
+</resources>

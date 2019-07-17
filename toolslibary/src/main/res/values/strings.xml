@@ -1,0 +1,7 @@
+<resources>
+    <string name="no_internet">no network</string>
+    <string name="loading">loading...</string>
+    <string name="str_information_dialog_camera">拍照</string>
+    <string name="str_information_dialog_image">编辑头像</string>
+    <string name="str_information_dialog_photo">从相册选择</string>
+</resources>
